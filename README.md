@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @adigeweb
+- 👋 Hi, I’m @kumkuatte
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord/Twitter @adigeweb
+- 📫 How to reach me: Discord @kumkuatte, X @adigeweb
 
 <!---
 adigeweb/adigeweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
