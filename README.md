@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumkuatte
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Unity Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord/X @kumkuatte
 
