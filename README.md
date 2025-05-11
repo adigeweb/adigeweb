@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kumkuatte
+- 👋 Hi, I’m Kumkuat (a.k.a. AdigeWeb)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Unity Engine
+- 🌱 I’m currently working on a bookcase maintainment site.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord/X @kumkuatte
 
